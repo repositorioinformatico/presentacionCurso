@@ -16,6 +16,8 @@ Unidad 4 - Deteccion de problemas de seguridad en aplicaciones para dispositivos
 
 Unidad 5 - Implantacion de sistemas seguros de desplegado de software
 
+## Comunicación de dudas e inquietudes
 
-
-
+El curso dispone de un foro de dudas donde se os invita
+a que compartáis vuestras dudas e inquietudes. Además,
+podéis enviarme un email directamente para resolver dudas. 
